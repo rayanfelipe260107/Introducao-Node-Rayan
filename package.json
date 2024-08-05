@@ -1,0 +1,26 @@
+{
+  "name": "introducao-node-rayan",
+  "version": "1.0.0",
+  "description": "Introdução do Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayanfelipe260107/Introducao-Node-Rayan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayanfelipe260107/Introducao-Node-Rayan/issues"
+  },
+  "homepage": "https://github.com/rayanfelipe260107/Introducao-Node-Rayan#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.1.4"
+  }
+}
